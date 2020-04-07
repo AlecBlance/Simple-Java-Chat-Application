@@ -45,7 +45,7 @@ The first step should be creating a room. After that you may play with the comma
  - Alec Blance 
  - Almira Ruby Montalvo
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 ## Acknowledgements
  - Niel Bunda - Teacher
 
