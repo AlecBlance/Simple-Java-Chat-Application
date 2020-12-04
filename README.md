@@ -4,7 +4,7 @@ This application was a project-exam collaboration that showcases certain Java to
 
 ![](Screenshot.png)
 
-I implemented our current topic in PHP, Handling Requests. The PHP website will serve as a **server** to accept requests from the clients. It will create text files and implement changes to it. The text file is the chat room that holds the messages. It will then be read line by line by the Java application.
+We implemented our current topic in PHP, Handling Requests. The PHP website will serve as a **server** to accept requests from the clients. It will create text files and implement changes to it. The text file is the chat room that holds the messages. It will then be read line by line by the Java application.
 
 > No security implementations were added
 
